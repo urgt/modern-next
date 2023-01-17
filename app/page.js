@@ -13,7 +13,7 @@ const Page = () => (
     <Insights />
     <Feedback />
     <Footer />
-  </div >
+  </div>
 );
 
 export default Page;
