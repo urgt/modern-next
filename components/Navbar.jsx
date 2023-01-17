@@ -2,7 +2,7 @@
 
 const Navbar = () => (
   <nav>
-    navbar
+    navbar vf
   </nav>
 );
 
